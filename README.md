@@ -2,7 +2,7 @@
 <h1 align="center">I'm Aamina Khalid</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Php**
 
 - 📫 How to reach me **aamikha470@gmail.com**
 

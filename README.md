@@ -1,5 +1,5 @@
 ## Hi there 
-<h1 align="center">Hi, I'm Aamina Khalid</h1>
+<h1 align="center">I'm Aamina Khalid</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript**

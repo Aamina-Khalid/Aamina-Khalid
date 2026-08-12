@@ -4,9 +4,7 @@
 <h3 align="center">Data Science Student · Researcher @ iVision Lab · Systems, Security & AI Infrastructure</h3>
 
 - 🎓 Second-year Data Science student at the **Institute of Space Technology, Islamabad**
-- 🛰️ Researcher at **iVision Lab**, working under Dr. Khurram Khurshid on hyperspectral imaging & ML for remote sensing
 - 📄 Currently writing a first-author paper on domain-shift in Roman Urdu sentiment classification
-- 🔭 Currently building an integrated systems project — hyperspectral band selection, encryption, and satellite transmission simulation in C++
 - 💬 Ask me about **C++, Python, Machine Learning, Systems & Security**
 - 📫 How to reach me **aamikha470@gmail.com**
 
